@@ -1,1 +1,1 @@
-# Pomodoro-Desktop-App
+The application performs the Pomodora time managing technique with ease and without the need for internet connection. The user simply clicks on the start button for the application to start working. The countdown will start counting 25 minutes of work and then counts 5 minutes of break. This cycle will be repeated 4 times, and at the end of the fourth one, 15 minutes break will be counted down as well. The reset button can be used to return to the start of the program.
